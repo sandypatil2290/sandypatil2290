@@ -1,5 +1,7 @@
+[![masterhead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040676/Linkedin_Cover_-_Data_Analyst_cb4umx.png)](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040676/Linkedin_Cover_-_Data_Analyst_cb4umx.png)
 <h1 align="center">Hi 👋, I'm Sandip Devare</h1>
 <h3 align="center">A passionate Data Analyst</h3>
+<img align ="right" alt = "coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandypatil2290&label=Profile%20views&color=0e75b6&style=flat" alt="sandypatil2290" /> </p>
 
